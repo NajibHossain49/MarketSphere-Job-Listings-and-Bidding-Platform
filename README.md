@@ -1,4 +1,4 @@
-# MarketSphere Full-Stack Online Marketplace
+# Market-Sphere Full-Stack Online Marketplace
 
 A web app for posting jobs, bidding on projects, and managing profiles, providing a seamless experience for job seekers and employers.
 
