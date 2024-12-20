@@ -70,7 +70,7 @@ This project serves as a learning platform to implement various full-stack devel
 ## 🧑‍💻 Author
 
 Developed with ❤️ by **Najib Hossain**  
-[GitHub](https://github.com/NajibHossain49) | [LinkedIn](www.linkedin.com/in/md-najib-hossain)
+[GitHub](https://github.com/NajibHossain49) | [LinkedIn](https://www.linkedin.com/in/md-najib-hossain)
 
 ## 🌟 Show Your Support
 
