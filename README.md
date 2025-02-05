@@ -67,6 +67,16 @@ This project serves as a learning platform to implement various full-stack devel
 - **Google Sign-In:** Firebase integration for enabling Google-based authentication.
 - **Private Routes:** Certain pages are accessible only by authenticated users, enforced with custom route protection.
 
+## npm Packages
+- **react-router-dom**: Routing in React.
+- **react-toastify**: Toast notifications.
+- **react-rating-stars-component**: Book rating functionality.
+- **dotenv**: Secure environment variable management.
+- **jsonwebtoken**: Token-based authentication.
+- **express**: Backend framework.
+- **mongoose**: MongoDB object modeling.
+- **cors**: Handling cross-origin requests.
+
 ## 🧑‍💻 Author
 
 Developed with ❤️ by **Najib Hossain**  
