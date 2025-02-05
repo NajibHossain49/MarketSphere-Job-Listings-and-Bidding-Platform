@@ -67,6 +67,30 @@ This project serves as a learning platform to implement various full-stack devel
 - **Google Sign-In:** Firebase integration for enabling Google-based authentication.
 - **Private Routes:** Certain pages are accessible only by authenticated users, enforced with custom route protection.
 
+## ⚙️ Installation and Setup
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/NajibHossain49/MarketSphere-Job-Listings-and-Bidding-Platform.git
+
+   cd MarketSphere-Job-Listings-and-Bidding-Platform
+   
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+---
+
 ## npm Packages
 - **react-router-dom**: Routing in React.
 - **react-toastify**: Toast notifications.
